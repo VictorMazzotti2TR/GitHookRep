@@ -1,4 +1,4 @@
 import os
-a = 'Victor Mazzotti'
-print(a)
+nome = input("Digite seu nome:")
+print(f"Seu nome é: {nome}")
 os.system('pause')
