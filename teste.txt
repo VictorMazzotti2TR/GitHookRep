@@ -1,4 +1,4 @@
 import os
-a = 'teste'
+a = 'Victor Mazzotti'
 print(a)
 os.system('pause')
