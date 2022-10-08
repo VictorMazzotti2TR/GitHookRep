@@ -1,0 +1,4 @@
+import os
+a = 'teste'
+print(a)
+os.system('pause')
