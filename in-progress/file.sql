@@ -1,6 +1,0 @@
-CREATE OR REPLACE PACKAGE TESTE
-
-
-
-
-asdhasudh
