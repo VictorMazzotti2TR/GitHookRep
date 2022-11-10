@@ -1,6 +1,0 @@
-CREATE OR REPLACE FUNCTION TESTE
-
-
-
-
-asdhasudh
